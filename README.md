@@ -23,6 +23,14 @@ https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
 
 Штат продажи.
 
+Для классификации использовались следующие модели: Random Forest, Linear Regression, Ridge Regression, Lasso Regression, Decision Tree.
+Результаты
+Лучшей моделью оказался Random Forest,
+MAE: $1,060.11
+RMSE: $1,605.69
+MAPE: 14.55%
+CV R²: 0.9543 ± 0.0029
+
 
 
 
