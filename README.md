@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
 
 Тип кузова.
 
-Дата продажи (кабриолет)
+Дата продажи (кабриолет) зимой.
 
 Штат продажи.
 
